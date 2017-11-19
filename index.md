@@ -19,7 +19,7 @@ March 2007 - February 2013
 Experience
 ---------------
 - [*Artificial Intelligence Lab*](http://ailab.kyonggi.ac.kr), **Kyonggi University** <br>
-Undergraduate Student Research Assistant (by Prof. **Incheol Kim**) <br>
+Undergraduate Student Researcher (by Prof. **Incheol Kim**) <br>
 January 2011 - February 2013
 
 - [**10th Qualcomm IT Tour**](http://www.qcitour.co.kr) <br>
