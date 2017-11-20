@@ -57,4 +57,4 @@ Publications
 Community Activity
 ---------------
 #### Program Committee
-- [The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data](http://www.iaria.org/conferences2018/ComALLDATA18.html), 2018
+- [The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data](http://www.iaria.org/conferences2018/ALLDATA18.html), 2018
