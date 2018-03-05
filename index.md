@@ -32,7 +32,7 @@ Natural Language Processing, Linked Open Data, Knowledge Extraction, Question An
 Publications
 ---------------
 #### International
-- Sangha Nam, Kijong Han, Eun-kyung Kim, and Key-Sun Choi "*Distant Supervision for Relation Extraction  with Multi-sense Word Embedding*" Workshop on Wordnets and Word-Embeddings, GWC2018, 2018. (Accepted)
+- Sangha Nam, Kijong Han, Eun-kyung Kim, and Key-Sun Choi "*Distant Supervision for Relation Extraction with Multi-sense Word Embedding*" Workshop on Wordnets and Word-Embeddings, GWC2018, 2018.
 - Sangha Nam, GyuHyeon Choi, and Key-Sun Choi. "*SRDF: A Novel Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.*" International Conference on Language, Data and Knowledge. Springer, Cham, 2017.
 - Sangha Nam and Incheol Kim. "*MRQUSAR: A web-scale distributed spatial reasoner using MapReduce.*" Big Data and Smart Computing (BigComp), 2017 IEEE International Conference on. IEEE, 2017.
 - Sangha Nam, et al. "*Design and Implementation of an Evaluator for Building a Good Knowledge Base in Question Answering.*" ISWC 2015 Workshop on Natural Language Interfaces for Web of Data, NLIWoD. 2015.
@@ -41,7 +41,7 @@ Publications
 - Sangha Nam and Incheol Kim, "*QUSAR : A Qualitative Spatial Reasoner Working on Directional and Topological Relations*" The 6th FTRA ACSA-14 Proceedings, 2014.
 
 #### Domestic
-- 남상하, et al. "*다중-어의 단어 임베딩을 적용한 CNN 기반 원격 지도 학습 관계 추출 모델*" HCLT, 2017.
+- 남상하, et al. "*다중-어의 단어 임베딩을 적용한 CNN 기반 원격 지도 학습 관계 추출 모델*" HCLT, 2017. **[우수논문상]**
 - 남상하, 최규현, 함영균 and 최기선, "*맥락적 어휘 지식 그래프 추출 알고리즘의 설계*" HCLT, 2016.
 - 남상하 and 김인철, "*혼합 공간 추론 알고리즘의 설계 및 구현*" KIISE transactions on computing practices, 2015.
 - 남상하 and 김인철, "*혼합 공간 추론 알고리즘의 설계*" KIISE, 2014. **[최우수논문상]**
