@@ -31,22 +31,22 @@ Natural Language Processing, Linked Open Data, Knowledge Extraction, Question An
 
 Major Projects
 ---------------
-- A Cognitive Planning and Learning Model for Mobile Platforms (모바일 플랫폼 기반 계획 및 학습 인지 모델 프레임워크 기술 개발)
-  - Smartphone Accelerometer-Based Gesture Recognition
+#### A Cognitive Planning and Learning Model for Mobile Platforms (모바일 플랫폼 기반 계획 및 학습 인지 모델 프레임워크 기술 개발)
+- Smartphone Accelerometer-Based Gesture Recognition <br>
 January 2011 - February 2013
 
-- Exobrain - WiseKB, Spatial Knowledge Reasoning (엑소브레인 - WiseKB, 공간 지식 추론)
-  - Qualitative Spatial Reasoning with Directional and Topological Relations
+#### Exobrain - WiseKB, Spatial Knowledge Reasoning (엑소브레인 - WiseKB, 공간 지식 추론)
+- Qualitative Spatial Reasoning with Directional and Topological Relations <br>
 March 2013 - February 2015
 
-- HANCOM-KAIST Project (그래프 유사도 기반 문서 내 객체 인식 및 지식 베이스 연결)
-  - Entity Linking
+#### HANCOM-KAIST Project (그래프 유사도 기반 문서 내 객체 인식 및 지식 베이스 연결)
+- Entity Linking <br>
 October 2015 - September 2016
 
-- Exobrain - WiseKB, Knowledge Learning (엑소브레인 - WiseKB, 지식 학습)
-  - Open Knowledge Base and Question Answering ([OKBQA](http://www.okbqa.org))
-  - A Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.
-  - Relation Extraction
+#### Exobrain - WiseKB, Knowledge Learning (엑소브레인 - WiseKB, 지식 학습)
+- Open Knowledge Base and Question Answering ([OKBQA](http://www.okbqa.org))
+- A Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.
+- Relation Extraction <br>
 March 2015 - 
 
 
