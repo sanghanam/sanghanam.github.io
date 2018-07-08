@@ -57,9 +57,10 @@ Publications (1st author)
 - Sangha Nam, Kijong Han, Eun-kyung Kim, and Key-Sun Choi "*Distant Supervision for Relation Extraction with Multi-sense Word Embedding*" The 9th Global WordNet Conference (GWC 2018), Workshop on Wordnets and Word-Embeddings, 2018.
 - Sangha Nam, GyuHyeon Choi, and Key-Sun Choi. "*SRDF: A Novel Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.*" International Conference on Language, Data and Knowledge (LDK 2017). Springer, Cham, 2017.
 - Sangha Nam and Incheol Kim. "*MRQUSAR: A web-scale distributed spatial reasoner using MapReduce.*" Big Data and Smart Computing (BigComp), 2017 IEEE International Conference on. IEEE, 2017.
+- Sangha Nam, GyuHyeon Choi, YoungGyun Hahm and Key-Sun Choi. "*SRDF: Extracting Lexical Knowledge Graph for Preserving Sentence Meaning.*" The 26th International COnference on Computational Linguistics (COLING 2016), OKBQA Workshop, 2016.
 - Sangha Nam, et al. "*Design and Implementation of an Evaluator for Building a Good Knowledge Base in Question Answering.*" The 14th International Semantic Web Conference (ISWC 2015), Workshop on Natural Language Interfaces for Web of Data (NLIWoD), 2015.
 - Sangha Nam, et al. "*SRDF: Korean Open Information Extraction using Singleton Property.*" The 14th International Semantic Web Conference (ISWC 2015), Posters & Demos track, 2015.
-- Sangha Nam  and Incheol Kim. "*Qualitative spatial reasoning with directional and topological relations.*" Mathematical Problems in Engineering, Hindawi, 2015. (SCIE, IF: 1.145)
+- Sangha Nam  and Incheol Kim. "*Qualitative spatial reasoning with directional and topological relations.*" Mathematical Problems in Engineering, Hindawi, 2015. (SCIE, IF:1.145)
 - Sangha Nam and Incheol Kim, "*QUSAR : A Qualitative Spatial Reasoner Working on Directional and Topological Relations*" The 6th FTRA ACSA-14 Proceedings, 2014.
 
 #### Domestic
