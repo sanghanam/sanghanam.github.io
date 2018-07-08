@@ -53,12 +53,13 @@ March 2015 -
 Publications
 ---------------
 #### International
-- Sangha Nam, Kijong Han, Eun-kyung Kim, and Key-Sun Choi "*Distant Supervision for Relation Extraction with Multi-sense Word Embedding*" Workshop on Wordnets and Word-Embeddings, GWC2018, 2018.
-- Sangha Nam, GyuHyeon Choi, and Key-Sun Choi. "*SRDF: A Novel Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.*" International Conference on Language, Data and Knowledge. Springer, Cham, 2017.
+- Sangha Nam, Eun-kyung Kim, Jiho Kim, Yoosung Jung, Kijong Han, and Key-Sun Choi "*A Korean Knowledge Extraction System for Enriching a KBox*" The 27th International Conference on Computational Linguistics (COLING 2018), Demo, 2018.
+- Sangha Nam, Kijong Han, Eun-kyung Kim, and Key-Sun Choi "*Distant Supervision for Relation Extraction with Multi-sense Word Embedding*" The 9th Global WordNet Conference (GWC 2018), Workshop on Wordnets and Word-Embeddings, 2018.
+- Sangha Nam, GyuHyeon Choi, and Key-Sun Choi. "*SRDF: A Novel Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.*" International Conference on Language, Data and Knowledge (LDK 2017). Springer, Cham, 2017.
 - Sangha Nam and Incheol Kim. "*MRQUSAR: A web-scale distributed spatial reasoner using MapReduce.*" Big Data and Smart Computing (BigComp), 2017 IEEE International Conference on. IEEE, 2017.
-- Sangha Nam, et al. "*Design and Implementation of an Evaluator for Building a Good Knowledge Base in Question Answering.*" ISWC 2015 Workshop on Natural Language Interfaces for Web of Data, NLIWoD. 2015.
-- Sangha Nam, et al. "*SRDF: Korean Open Information Extraction using Singleton Property.*" International Semantic Web Conference (Posters & Demos). 2015.
-- Sangha Nam  and Incheol Kim. "*Qualitative spatial reasoning with directional and topological relations.*" Mathematical Problems in Engineering, 2015. (SCIE)
+- Sangha Nam, et al. "*Design and Implementation of an Evaluator for Building a Good Knowledge Base in Question Answering.*" The 14th International Semantic Web Conference (ISWC 2015), Workshop on Natural Language Interfaces for Web of Data (NLIWoD), 2015.
+- Sangha Nam, et al. "*SRDF: Korean Open Information Extraction using Singleton Property.*" The 14th International Semantic Web Conference (ISWC 2015), Posters & Demos track, 2015.
+- Sangha Nam  and Incheol Kim. "*Qualitative spatial reasoning with directional and topological relations.*" Mathematical Problems in Engineering, Hindawi, 2015. (SCIE, IF: 1.145)
 - Sangha Nam and Incheol Kim, "*QUSAR : A Qualitative Spatial Reasoner Working on Directional and Topological Relations*" The 6th FTRA ACSA-14 Proceedings, 2014.
 
 #### Domestic
