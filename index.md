@@ -50,7 +50,7 @@ October 2015 - September 2016
 March 2015 - 
 
 
-Publications
+Publications (1st author)
 ---------------
 #### International
 - Sangha Nam, Eun-kyung Kim, Jiho Kim, Yoosung Jung, Kijong Han, and Key-Sun Choi "*A Korean Knowledge Extraction System for Enriching a KBox*" The 27th International Conference on Computational Linguistics (COLING 2018), Demo, 2018.
