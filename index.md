@@ -45,7 +45,8 @@ October 2015 - September 2016
 
 #### Exobrain - WiseKB, Knowledge Learning (엑소브레인 - WiseKB, 지식 학습)
 - Open Knowledge Base and Question Answering ([OKBQA](http://www.okbqa.org))
-- A Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.
+- Knowledge representation for whole sentence knowledge extraction.
+- Crowdsourcing
 - Relation Extraction <br>
 March 2015 - 
 
