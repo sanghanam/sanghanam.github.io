@@ -51,7 +51,7 @@ October 2015 - September 2016
 March 2015 - 
 
 
-Publications (1st author)
+Publications (only 1st author)
 ---------------
 #### International
 - Sangha Nam, Eun-kyung Kim, Jiho Kim, Yoosung Jung, Kijong Han, and Key-Sun Choi "*A Korean Knowledge Extraction System for Enriching a KBox*" The 27th International Conference on Computational Linguistics (COLING 2018), Demo, 2018.
@@ -65,6 +65,7 @@ Publications (1st author)
 - Sangha Nam and Incheol Kim, "*QUSAR : A Qualitative Spatial Reasoner Working on Directional and Topological Relations*" The 6th FTRA ACSA-14 Proceedings, 2014.
 
 #### Domestic
+- 남상하, et al. "*CNN 기반 관계 추출 모델의 성능 향상을 위한 다중-어의 단어 임베딩 적용*" Journal of KIISE 45(8), 2018.
 - 남상하, et al. "*다중-어의 단어 임베딩을 적용한 CNN 기반 원격 지도 학습 관계 추출 모델*" HCLT, 2017. **[우수논문상]**
 - 남상하, 최규현, 함영균 and 최기선, "*맥락적 어휘 지식 그래프 추출 알고리즘의 설계*" HCLT, 2016.
 - 남상하 and 김인철, "*혼합 공간 추론 알고리즘의 설계 및 구현*" KIISE transactions on computing practices, 2015.
