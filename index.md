@@ -78,10 +78,3 @@ Publications (only 1st author)
 - 남상하, 김주희, 허세경, and 김인철, "*가속도 센서 데이터를 이용한 스마트폰 사용자의 제스처 인식*" KIPS, 2012.
 - 남상하, 정보영, and 김인철, "*스마트 스크립트 시스템을 이용한 자동 응답 문자 서비스의 구현*" KIPS, 2011.
 
-
-Community Activity
----------------
-#### Program Committee
-- [The Fourth International Conference on Big Data, Small Data, Linked Data and Open Data](http://www.iaria.org/conferences2018/ALLDATA18.html), 2018
-- [The Twelfth International Conference on Advances in Semantic Processing
-SEMAPRO 2018](http://www.iaria.org/conferences2018/SEMAPRO18.html), 2018
