@@ -54,6 +54,7 @@ March 2015 -
 Publications (only 1st author)
 ---------------
 #### International
+- Sangha Nam, Minho Lee, Donghwan Kim, Kijong Han, Kuntae Kim, Sooji Yoon, Eun-kyung Kim, Key-Sun Choi "*Effective Crowdsourcing of Multiple Tasks for Comprehensive Knowledge Extraction*" 12th Edition of its Language Resources and Evaluation Conference (LREC 2020) 2020. (accepted)
 - Sangha Nam, Eun-kyung Kim, Jiho Kim, Yoosung Jung, Kijong Han, and Key-Sun Choi "*A Korean Knowledge Extraction System for Enriching a KBox*" The 27th International Conference on Computational Linguistics (COLING 2018), Demo, 2018.
 - Sangha Nam, Kijong Han, Eun-kyung Kim, and Key-Sun Choi "*Distant Supervision for Relation Extraction with Multi-sense Word Embedding*" The 9th Global WordNet Conference (GWC 2018), Workshop on Wordnets and Word-Embeddings, 2018.
 - Sangha Nam, GyuHyeon Choi, and Key-Sun Choi. "*SRDF: A Novel Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.*" International Conference on Language, Data and Knowledge (LDK 2017). Springer, Cham, 2017.
@@ -65,6 +66,7 @@ Publications (only 1st author)
 - Sangha Nam and Incheol Kim, "*QUSAR : A Qualitative Spatial Reasoner Working on Directional and Topological Relations*" The 6th FTRA ACSA-14 Proceedings, 2014.
 
 #### Domestic
+- 남상하 and 최기선 "*크라우드소싱을 통한 원격 주석 학습 기반 관계 추출의 성능 개선*" KIISE, 2019.
 - 남상하, et al. "*CNN 기반 관계 추출 모델의 성능 향상을 위한 다중-어의 단어 임베딩 적용*" Journal of KIISE 45(8), 2018.
 - 남상하, et al. "*다중-어의 단어 임베딩을 적용한 CNN 기반 원격 지도 학습 관계 추출 모델*" HCLT, 2017. **[우수논문상]**
 - 남상하, 최규현, 함영균 and 최기선, "*맥락적 어휘 지식 그래프 추출 알고리즘의 설계*" HCLT, 2016.
