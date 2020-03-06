@@ -85,3 +85,5 @@ Publications (only 1st author)
  ---------------
  #### Scientific Committee
  - [The 12th International Conference on Language Resources and Evaluation](http://lrec2020.lrec-conf.org), 2020
+ #### Program Committee
+ - [The 11th IEEE International Conference on Knowledge Graph](http://ickg2020.bigke.org/), 2020
