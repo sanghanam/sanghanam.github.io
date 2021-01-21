@@ -1,27 +1,28 @@
 Sangha Nam
 ================
 
-Ph.D. Student <br>
-[School of Computing](http://www.cs.kaist.ac.kr) <br>
-[Korea Advanced Institute of Science and Technology (KAIST)](http://www.kaist.ac.kr) <br>
-[*Machind Reading Lab*, Semantic Web Research Center](http://semanticweb.kaist.ac.kr) (by Prof. **Key-Sun Choi**) <br>
-email : nam.sangha@kaist.ac.kr
+Ph.D. <br>
+Language AI Lab.
+Dialogue Platform Team
+[NCSOFT](https://kr.ncsoft.com/kr/index.do)<br>
+email : namsangha@ncsoft.com
 
 
 Education
 ---------------
+- **Ph.D.** in [*Machind Reading Lab*, Semantic Web Research Center](http://semanticweb.kaist.ac.kr) *School of Computing*, **KAIST** (by Prof. **Key-Sun Choi**)<br>
+March 2016 - February 2021
+
 - **M.S**. in [Artificial Intelligence Lab.](http://ailab.kyonggi.ac.kr), *Computer Science*, **Kyonggi University** (by Prof. **Incheol Kim**)<br>
 March 2013 - February 2015
 
 - **B.S.** in *Computer Science*, **Kyonggi University**<br>
 March 2007 - February 2013
 
+
+
 Experience
 ---------------
-- [*Artificial Intelligence Lab*](http://ailab.kyonggi.ac.kr), **Kyonggi University** <br>
-Undergraduate Student Researcher (by Prof. **Incheol Kim**) <br>
-January 2011 - February 2013
-
 - [**10th Qualcomm IT Tour**](http://www.qcitour.co.kr) <br>
 2012.06.29. - 2012.07.05.
 
@@ -46,15 +47,15 @@ October 2015 - September 2016
 #### Exobrain - WiseKB, Knowledge Learning (엑소브레인 - WiseKB, 지식 학습)
 - Open Knowledge Base and Question Answering ([OKBQA](http://www.okbqa.org))
 - Knowledge representation for whole sentence knowledge extraction.
-- Crowdsourcing
+- Knowledge Learning
 - Relation Extraction <br>
-March 2015 - 
+March 2015 - December 2020
 
 
 Publications (only 1st author)
 ---------------
 #### International
-- Sangha Nam, Minho Lee, Donghwan Kim, Kijong Han, Kuntae Kim, Sooji Yoon, Eun-kyung Kim, Key-Sun Choi "*Effective Crowdsourcing of Multiple Tasks for Comprehensive Knowledge Extraction*" 12th Edition of its Language Resources and Evaluation Conference (LREC 2020) 2020. (accepted)
+- Sangha Nam, Minho Lee, Donghwan Kim, Kijong Han, Kuntae Kim, Sooji Yoon, Eun-kyung Kim, Key-Sun Choi "*Effective Crowdsourcing of Multiple Tasks for Comprehensive Knowledge Extraction*" 12th Edition of its Language Resources and Evaluation Conference (LREC 2020) 2020.
 - Sangha Nam, Eun-kyung Kim, Jiho Kim, Yoosung Jung, Kijong Han, and Key-Sun Choi "*A Korean Knowledge Extraction System for Enriching a KBox*" The 27th International Conference on Computational Linguistics (COLING 2018), Demo, 2018.
 - Sangha Nam, Kijong Han, Eun-kyung Kim, and Key-Sun Choi "*Distant Supervision for Relation Extraction with Multi-sense Word Embedding*" The 9th Global WordNet Conference (GWC 2018), Workshop on Wordnets and Word-Embeddings, 2018.
 - Sangha Nam, GyuHyeon Choi, and Key-Sun Choi. "*SRDF: A Novel Lexical Knowledge Graph for Whole Sentence Knowledge Extraction.*" International Conference on Language, Data and Knowledge (LDK 2017). Springer, Cham, 2017.
