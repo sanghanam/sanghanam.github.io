@@ -2,8 +2,8 @@ Sangha Nam
 ================
 
 Ph.D. <br>
-Language AI Lab.
-Dialogue Platform Team
+NLP Center, Dialogue Tech Lab.,
+Leader of Dialogue Model Team
 [NCSOFT](https://kr.ncsoft.com/kr/index.do)<br>
 email : namsangha@ncsoft.com
 
