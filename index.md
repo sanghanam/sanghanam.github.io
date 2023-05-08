@@ -5,7 +5,8 @@ Ph.D. <br>
 NLP Center, Dialogue Tech Lab.,
 Leader of Dialogue Model Team
 [NCSOFT](https://kr.ncsoft.com/kr/index.do)<br>
-email : namsangha@ncsoft.com
+Adjunct Professor, Department of Bigdata, Daejeon University<br>
+email : nam.sangha@gmail.com
 
 
 Education
