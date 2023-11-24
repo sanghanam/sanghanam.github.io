@@ -83,7 +83,7 @@ Publications (only 1st author)
 - 남상하, 정보영, and 김인철, "*스마트 스크립트 시스템을 이용한 자동 응답 문자 서비스의 구현*" KIPS, 2011.
 
 
- Community Activity
+ Committee
  ---------------
  - [The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation](http://lrec-coling-2024.org), 2024
  - [The 12th International Conference on Language Resources and Evaluation](http://lrec2020.lrec-conf.org), 2020
