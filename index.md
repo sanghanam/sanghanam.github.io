@@ -85,7 +85,6 @@ Publications (only 1st author)
 
  Community Activity
  ---------------
- #### Scientific Committee
+ - [The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation](http://lrec-coling-2024.org), 2024
  - [The 12th International Conference on Language Resources and Evaluation](http://lrec2020.lrec-conf.org), 2020
- #### Program Committee
  - [The 11th IEEE International Conference on Knowledge Graph](http://ickg2020.bigke.org/), 2020
